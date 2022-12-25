@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566063519156",
+    "project_id": "uznlphackathon",
+    "storage_bucket": "uznlphackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566063519156:android:b1706872d3ce0a2e234ee1",
+        "android_client_info": {
+          "package_name": "com.example.tts_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566063519156-o4cokgkisj8uhhps4eo9c65e58hg242p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChUqzorfcJhfCcrTm4MvsxttBcT1j3sj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566063519156-o4cokgkisj8uhhps4eo9c65e58hg242p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
